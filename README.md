@@ -1,0 +1,1 @@
+To run this project, open it in Godot 4.7. The script handles LOD switching based on distance with hysteresis for MeshInstance3D nodes.
